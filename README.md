@@ -11,10 +11,10 @@ Include the javascript file.
 
 ### Set equal size
 
-	<!-- Set equal height -->
+	//Set equal height
 	$('.box').equalHeight();
 
-	<!-- Set equal width -->
+	// Set equal width
 	$('.box').equalWidth();
 
 ## Set a minimum value
